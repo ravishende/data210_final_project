@@ -3,3 +3,10 @@ __pycache__/
 old/
 .venv
 uncleaned_data/
+cleaned_data/
+body.txt
+clean.py
+cleaning.ipynb
+output.txt
+sanitize.ipynb
+utils.py
