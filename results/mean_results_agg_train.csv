@@ -1,0 +1,6 @@
+model_name,train_prop_err_mean,train_prop_err_med,train_rmse,train_mae
+Decision Tree,0.081,0.033,4861.946,1252.029
+Elastic Net,1.47,0.674,36849.902,14938.84
+Gradient Boosting,0.364,0.245,18556.781,6191.529
+Linear Regression,0.851,0.452,160797.504,17939.166
+Random Forest,0.123,0.078,7723.46,2215.353
